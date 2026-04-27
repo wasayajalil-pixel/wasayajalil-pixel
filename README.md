@@ -1,134 +1,101 @@
+<div align="center">
+
 # 👋 Hi, I'm Jalil Wasaya
 
-### 💻 Full Stack Developer | Python & Java Developer | Former Banking Professional
+### 💻 Full Stack Developer | Python & Java Developer  
+### 🏦 Former Banking Professional | UI/UX Enthusiast
 
-I'm a passionate Full Stack Developer with a background in Banking and Customer Experience.
-I enjoy building scalable web applications, solving real-world problems, and continuously improving my technical skills.
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Clean+Code+%26+Modern+Design;Python+%7C+Java+%7C+JavaScript;Luxury+Dark+Portfolio" />
 
----
-
-## 🚀 About Me
-
-* 🎓 Business Administration (HR) — Birzeit University (2017)
-* 💻 Full Stack Developer — Axsos Academy (2026)
-* 🏦 Former Head Teller — Bank of Jordan
-* 🌍 Based in Ramallah, Palestine
-* 🔥 Passionate about Web Development & Clean Code
-* 📈 Currently improving React, Backend, and System Design
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Frontend
+## ✨ About Me
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React
-* Bootstrap
+</div>
 
-### Backend
+I am a passionate **Full Stack Developer** with a background in **Banking and Customer Experience**.  
+I enjoy building clean, responsive, and user-friendly web applications with a focus on modern design, performance, and real-world problem solving.
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-
-### Programming Languages
-
-* JavaScript
-* Python
-* Java
-* TypeScript
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Postman
-* Figma
-* Responsive Design
+- 🎓 Business Administration — Birzeit University  
+- 💻 Full Stack Developer — Axsos Academy  
+- 🏦 Former Head Teller — Bank of Jordan  
+- 📍 Ramallah, Palestine  
+- 🔥 Interested in Web Development, UI/UX, and Clean Code  
+- 📚 Currently improving React, Backend, and System Design  
 
 ---
 
-## 📂 Featured Projects
+<div align="center">
 
-### 🔹 Social Dashboard
+## 🛠 Tech Stack
 
-* Friend request system
-* DOM manipulation
-* Dynamic UI updates
-* Responsive layout
+</div>
 
-### 🔹 Portfolio Website
+<div align="center">
 
-* Personal branding
-* Responsive design
-* Clean UI
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=D4AF37)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=D4AF37)
 
-### 🔹 E-Commerce UI
-
-* Product layout
-* Shopping cart UI
-* Responsive Grid System
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasayajalil-pixel\&show_icons=true\&theme=tokyonight)
+## 🚀 Featured Projects
 
----
+</div>
 
-## 🔥 Most Used Languages
+### 🖤 Luxury Portfolio Website
+Modern responsive portfolio with dark luxury design.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasayajalil-pixel\&layout=compact\&theme=tokyonight)
+### 🛒 E-Commerce Website
+Full stack shopping website with products, cart, and user features.
 
----
-
-## 🚀 Tech Badges
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+### 📊 Banking System App
+Simple app inspired by banking experience, focusing on customer and transaction management.
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jalil-wasaya/
-* 📧 Email: [wasaya.jalil@gmail.com](mailto:wasaya.jalil@gmail.com)
-* 📱 Phone: +970597121488
+## 📈 GitHub Stats
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=wasayajalil-pixel&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=000000" />
 
-## 🎯 Career Goals
+<br/>
 
-* Become Senior Full Stack Developer
-* Work on large-scale applications
-* Contribute to open-source projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayajalil-pixel&layout=compact&theme=dark&title_color=D4AF37&text_color=ffffff&bg_color=000000" />
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I transitioned from Banking to Software Development — and I love building things from scratch 🚀
+## 🌐 Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/jalil-wasaya/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:wasaya.jalil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/wasayajalil-pixel)
 
-⭐️ From [Jalil Wasaya](https://github.com/wasayajalil-pixel)
-
-
----
-
-## ⚡ Fun Fact
-
-I love building things from scratch and turning ideas into real applications 🚀
+</div>
 
 ---
 
-⭐️ From [wasayajalil-pixel](https://github.com/wasayajalil-pixel)
+<div align="center">
+
+### “Code with elegance. Build with purpose.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer"/>
+
+</div>
