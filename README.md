@@ -93,19 +93,17 @@ A practice app for learning create, read, update, and delete operations with a d
 
 <div align="center" style="background-color:#000000; padding:25px; border-radius:15px;">
 
+---
+
+<div align="center">
+
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/jalil-wasaya/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/jalil-wasaya/)
 
-<a href="mailto:wasaya.jalil@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:wasaya.jalil@gmail.com)
 
-<a href="https://github.com/wasayajalil-pixel">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/wasayajalil-pixel)
 
 </div>
 
