@@ -1,3 +1,12 @@
+<div style="background-color:#000000; padding:30px; border-radius:15px;">
+
+<h1 align="center" style="color:#D4AF37;">👋 Jalil Wasaya</h1>
+
+<p align="center" style="color:white;">
+Full Stack Developer | Luxury Dark Theme
+</p>
+
+</div>
 <div align="center">
 
 # 👋 Hi, I'm Jalil Wasaya
