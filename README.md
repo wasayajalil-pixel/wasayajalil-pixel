@@ -20,6 +20,7 @@
 I am a passionate <b>Full Stack Developer</b> with a background in <b>Banking and Customer Experience</b>.<br/>
 I enjoy building clean, responsive, and user-friendly web applications with a focus on modern design and real-world problem solving.
 </p>
+</div>
 
 <ul style="color:white; list-style:none;">
 <li>🎓 Business Administration — Birzeit University</li>
@@ -30,11 +31,11 @@ I enjoy building clean, responsive, and user-friendly web applications with a fo
 <li>📚 Improving React & Backend</li>
 </ul>
 
-</div>
+
 
 ---
 
-<div style="background-color:#000000; padding:25px; border-radius:15px;">
+<div align-items:center; style="background-color:#000000; padding:25px; border-radius:15px;">
 
 ## 🛠 Tech Stack
 
