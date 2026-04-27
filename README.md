@@ -83,9 +83,9 @@ A practice app for learning create, read, update, and delete operations with a d
 
 <div align="center" style="background-color:#000000; padding:25px; border-radius:15px;">
 
-## 🏆 GitHub Progress
+## 📊 GitHub Activity
 
-<img src="https://github-profile-trophy.vercel.app/?username=wasayajalil-pixel&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=wasayajalil-pixel&show_icons=true&theme=dark&title_color=D4AF37&icon_color=D4AF37&bg_color=000000" />
 
 </div>
 
