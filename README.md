@@ -34,7 +34,7 @@ I enjoy building clean, responsive, and user-friendly web applications with a fo
 
 ---
 
-<div align="center" style="background-color:#000000; padding:25px; border-radius:15px;">
+<div style="background-color:#000000; padding:25px; border-radius:15px;">
 
 ## 🛠 Tech Stack
 
