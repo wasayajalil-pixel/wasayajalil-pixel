@@ -85,7 +85,7 @@ A practice app for learning create, read, update, and delete operations with a d
 
 ## 🏆 GitHub Progress
 
-<img src="https://github-profile-trophy.vercel.app/?username=wasayajalil-pixel&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=wasayajalil-pixel&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
