@@ -44,22 +44,22 @@ I enjoy building clean, responsive, and user-friendly web applications with a fo
 </div>
 
 ---
-
 <div style="background-color:#000000; padding:25px; border-radius:15px;">
 
-## 🚀 Featured Projects
+## 🚀 Featured Learning Projects
 
-### 🖤 Luxury Portfolio Website
-<p style="color:white;">Modern responsive portfolio with dark luxury design.</p>
+### 🧑‍💻 Portfolio Website
+A simple personal portfolio to practice layout, sections, responsive design, and clean styling.  
+**Tech:** HTML, CSS, JavaScript
 
-### 🛒 E-Commerce Website
-<p style="color:white;">Full stack shopping website with products, cart, and user features.</p>
+### 🛒 Mini E-Commerce Page
+A beginner project to practice product cards, buttons, cart logic, and DOM manipulation.  
+**Tech:** HTML, CSS, JavaScript
 
-### 🏦 Banking System App
-<p style="color:white;">Simple app inspired by banking experience, focusing on customer and transaction management.</p>
+### 📊 CRUD Practice App
+A practice app for learning create, read, update, and delete operations with a database.  
+**Tech:** JavaScript, MySQL
 
-### 📊 CRUD Dashboard
-<p style="color:white;">Dashboard for create, read, update, and delete operations.</p>
 
 </div>
 
@@ -83,9 +83,9 @@ I enjoy building clean, responsive, and user-friendly web applications with a fo
 
 <div align="center" style="background-color:#000000; padding:25px; border-radius:15px;">
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Progress
 
-<img src="https://github-profile-trophy.vercel.app/?username=wasayajalil-pixel&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Repositories,PullRequest" />
+<img src="https://github-profile-trophy.vercel.app/?username=wasayajalil-pixel&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 
 </div>
 
